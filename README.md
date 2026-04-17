@@ -1,67 +1,75 @@
-<!-- HEADER -->
-<h1 align="center">SSRN Services</h1>
-<p align="center">
-  Backend • AI • Systems Engineer
-</p>
+# Hi, I'm Nisar 👋
 
-<p align="center">
-  Building scalable systems, automation tools & real-world products
-</p>
+**Backend Engineer focused on building scalable systems, automation tools, and AI-powered applications**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SSRNServices&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+I design and build production-grade backend systems with a strong focus on performance, reliability, and clean architecture.
 
 ---
 
-## 🧠 About
-- Backend-focused developer working on real production systems  
-- Building AI-powered tools & automation workflows  
-- Focused on performance, scalability & clean architecture  
+## 🚀 What I Do
+
+* Build scalable backend systems & APIs
+* Develop automation tools that reduce manual work
+* Integrate AI into real-world applications
+* Design systems that handle real users, not just demos
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,ts,js,react,nextjs,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,postgres,redis" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,aws" />
-</p>
+**Backend:** Node.js, Express, Python
+**Databases:** MongoDB, PostgreSQL, MySQL, Redis
+**DevOps & Infra:** Docker, Nginx, Linux, GitHub Actions
+**Frontend (when needed):** React, Next.js
 
 ---
 
-## 📊 Analytics
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSRNServices&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSRNServices&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
+### 🔹 ShiftLog App
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSRNServices&theme=github-dark&hide_border=true"/>
-</p>
+Employee tracking & attendance system with real-time location sync
+
+* Built backend for real-time check-in/check-out system
+* Designed APIs for multi-user tracking & state consistency
+* Solved edge cases like duplicate check-ins & sync failures
+
+**Tech:** Node.js, MongoDB, Flutter
+
+---
+
+### 🔹 Telegram Scraper
+
+Automation tool for extracting and processing Telegram data
+
+* Built scalable scraping workflow
+* Structured data for downstream automation use
+
+**Tech:** Python
+
+---
+
+### 🔹 Cloudflare Docker Setup
+
+Production-ready Docker setup for deployments behind Cloudflare
+
+* Simplified deployment workflow
+* Optimized for scalability & security
+
+**Tech:** Docker, Nginx
+
+---
+
+## 🎯 Current Focus
+
+* Backend architecture & system design
+* Automation at scale
+* AI integration in production systems
 
 ---
 
 ## 🌐 Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/SSRNServices">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@SSRNServices">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:SSRNServices@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚡ Focus
-
-<p align="center">
-  Backend Systems • AI Tools • Automation • Infrastructure
-</p>
+* LinkedIn: https://linkedin.com/in/SSRNServices
+* YouTube: https://youtube.com/@SSRNServices
+* Email: [SSRNServices@gmail.com](mailto:SSRNServices@gmail.com)
