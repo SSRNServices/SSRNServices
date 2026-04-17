@@ -1,75 +1,95 @@
-# Hi, I'm Nadeem 👋
+# Nadeem — Backend Engineer
 
-**Backend Engineer focused on building scalable systems, automation tools, and AI-powered applications**
+I build **production-grade backend systems, automation pipelines, and AI-powered tools** that solve real-world problems.
 
-I design and build production-grade backend systems with a strong focus on performance, reliability, and clean architecture.
-
----
-
-## 🚀 What I Do
-
-* Build scalable backend systems & APIs
-* Develop automation tools that reduce manual work
-* Integrate AI into real-world applications
-* Design systems that handle real users, not just demos
+Most developers build features.
+I focus on **systems that scale, stay reliable, and handle real users**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Core Expertise
+
+* Designing scalable backend architectures
+* Building high-performance APIs & services
+* Automation systems that eliminate manual workflows
+* AI integration in production environments
+* Debugging complex state & sync issues
+
+---
+
+## 🧠 Engineering Approach
+
+* Write code that is maintainable under pressure
+* Optimize for performance, not just functionality
+* Solve edge cases early (not after bugs appear)
+* Build systems that don’t break with scale
+
+---
+
+## 📌 Selected Work
+
+### 🔹 ShiftLog — Employee Tracking System
+
+Real-time attendance & location tracking system
+
+* Designed check-in/check-out logic with state validation
+* Solved duplicate session & sync inconsistency issues
+* Built backend capable of handling multiple concurrent users
+
+**Stack:** Node.js, MongoDB, Flutter
+
+---
+
+### 🔹 Automation Systems
+
+Custom tools for scraping, processing, and workflow automation
+
+* Built Telegram scraping pipelines
+* Structured data for downstream automation
+* Reduced manual operations through systemized workflows
+
+**Stack:** Python
+
+---
+
+### 🔹 Deployment & Infrastructure Setup
+
+Production-ready deployment environments
+
+* Dockerized applications for consistency
+* Configured Nginx for routing & performance
+* Optimized deployments behind Cloudflare
+
+**Stack:** Docker, Nginx, Linux
+
+---
+
+## 🛠️ Tech Stack (Used in Production)
 
 **Backend:** Node.js, Express, Python
 **Databases:** MongoDB, PostgreSQL, MySQL, Redis
-**DevOps & Infra:** Docker, Nginx, Linux, GitHub Actions
-**Frontend (when needed):** React, Next.js
-
----
-
-## 📌 Featured Projects
-
-### 🔹 ShiftLog App
-
-Employee tracking & attendance system with real-time location sync
-
-* Built backend for real-time check-in/check-out system
-* Designed APIs for multi-user tracking & state consistency
-* Solved edge cases like duplicate check-ins & sync failures
-
-**Tech:** Node.js, MongoDB, Flutter
-
----
-
-### 🔹 Telegram Scraper
-
-Automation tool for extracting and processing Telegram data
-
-* Built scalable scraping workflow
-* Structured data for downstream automation use
-
-**Tech:** Python
-
----
-
-### 🔹 Cloudflare Docker Setup
-
-Production-ready Docker setup for deployments behind Cloudflare
-
-* Simplified deployment workflow
-* Optimized for scalability & security
-
-**Tech:** Docker, Nginx
+**Infrastructure:** Docker, Nginx, Linux, GitHub Actions
+**Frontend (supporting role):** React, Next.js
 
 ---
 
 ## 🎯 Current Focus
 
-* Backend architecture & system design
-* Automation at scale
-* AI integration in production systems
+* Scaling backend systems for real-world usage
+* Building automation-first products
+* Applying AI in practical, usable systems
 
 ---
 
 ## 🌐 Connect
 
-* LinkedIn: https://linkedin.com/in/SSRNServices
-* YouTube: https://youtube.com/@SSRNServices
-* Email: [SSRNServices@gmail.com](mailto:SSRNServices@gmail.com)
+* LinkedIn → https://linkedin.com/in/SSRNServices
+* YouTube → https://youtube.com/@SSRNServices
+* Email → [SSRNServices@gmail.com](mailto:SSRNServices@gmail.com)
+
+---
+
+## ⚡ Reality
+
+I don’t build demo projects.
+I build systems that are meant to be used.
