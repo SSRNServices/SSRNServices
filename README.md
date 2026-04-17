@@ -81,6 +81,19 @@ Production-ready deployment environments
 
 ---
 
+## 📊 Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSRNServices&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSRNServices&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSRNServices&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
 ## 🌐 Connect
 
 * LinkedIn → https://linkedin.com/in/SSRNServices
