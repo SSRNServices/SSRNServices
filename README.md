@@ -1,4 +1,4 @@
-# Hi, I'm Nisar 👋
+# Hi, I'm Nadeem 👋
 
 **Backend Engineer focused on building scalable systems, automation tools, and AI-powered applications**
 
