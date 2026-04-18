@@ -1,3 +1,10 @@
+<div align="center">
+  <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
+  <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Nadeem Sarwar</h1>
+  <h3>A passionate backend developer & cloud engineer from India.</h3>
+</div>
+
+
 <p align="center">
   <img src="Profile.png" width="350" alt="SSRN Services Profile" />
 </p>
