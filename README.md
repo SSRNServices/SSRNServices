@@ -1,5 +1,12 @@
 <div align="center">
-  <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
+ <p align="center">
+  <img src="Profile.png" width="350" alt="SSRN Services Profile" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architect;AI+%26+Automation+Expert" alt="Typing SVG" />
+</p>
+
   <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Nadeem Sarwar</h1>
   <h3>A passionate backend developer & cloud engineer from India.</h3>
 </div>
@@ -12,13 +19,6 @@
 <p>&nbsp;</p>
 
 
-<p align="center">
-  <img src="Profile.png" width="350" alt="SSRN Services Profile" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architect;AI+%26+Automation+Expert" alt="Typing SVG" />
-</p>
 
 ---
 
