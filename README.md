@@ -9,7 +9,7 @@
   <h3>A passionate backend developer & cloud engineer from India.</h3>
 </div>
  
- <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
+ <img align="right" width="380" height="auto" src="./geek.gif"/>
 
 <div align="left">
   <samp>
