@@ -1,69 +1,67 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+Nadeem;Backend+Engineer;AI+%26+Automation+Specialist;Architecting+Reliable+Systems" alt="Typing SVG" /></p>
-
 <p align="center">
-  <strong>Senior Backend Engineer specialized in distributed systems, high-performance APIs, and production-grade automation.</strong>
+  <img src="Profile.png" width="350" alt="SSRN Services Profile" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SSRNServices">LinkedIn</a> • 
-  <a href="https://youtube.com/@SSRNServices">YouTube</a> • 
-  <a href="mailto:SSRNServices@gmail.com">Email</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architect;AI+%26+Automation+Expert" alt="Typing SVG" />
 </p>
 
 ---
 
-### ⚡ Professional Summary
+### ⚡ Overview
 
-I bridge the gap between complex requirements and scalable software. My focus isn't just on writing code, but on building **resilient backend architectures** that handle real-world edge cases, maintain state integrity under load, and automate away operational friction.
-
-- **Systems over Features**: I build with scale, security, and observability in mind from day one.
-- **Problem Solver**: Specialized in debugging complex state synchronization and data consistency issues.
-- **Automation First**: If it can be systemized, it should be automated.
+Senior Software Engineer focused on architecting high-performance backend systems, autonomous AI pipelines, and production-grade automation. I bridge the gap between complex business logic and resilient, scalable software.
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🧠 About Me
 
-| Category | Technologies |
+*   **What I Build**: Distributed backend architectures, real-time data synchronization layers, and high-concurrency scraping engines.
+*   **Current Focus**: Engineering autonomous systems that leverage LLMs and structured data for industrial-scale automation.
+*   **Philosophy**: I prioritize system reliability and state integrity over simple feature delivery. My code is built to handle edge cases in production, not just tutorials.
+
+---
+
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Node.js (TypeScript), Python, Go, SQL |
-| **Infrastructure** | Docker, Nginx, Linux (Ubuntu/Debian), GitHub Actions, Cloudflare |
-| **Databases** | MongoDB, PostgreSQL, Redis, MySQL |
-| **Specialized** | Real-time WebSockets, AI/LLM Integration, Web Scraping Pipelines |
+| **Backend** | Node.js (TypeScript), Python, Go, REST/GraphQL APIs |
+| **Database** | PostgreSQL, MongoDB, Redis, MySQL |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Infrastructure** | Docker, Nginx, GitHub Actions, Linux, Cloudflare |
 
 ---
 
-### 🚀 Selected Impact
+### 🚀 Featured Systems
 
-#### **ShiftLog — Enterprise Attendance & Geolocation**
-*Designed and implemented a real-time personnel tracking system.*
-- **Core Challenge**: Solved critical data race conditions and session synchronization issues across concurrent mobile clients.
-- **Architecture**: Built a robust Node.js/MongoDB backend with strict state validation for check-in/out logic.
-- **Impact**: Reduced tracking inaccuracies by 95% and handled multi-tenant organization scaling.
+#### **1. ShiftLog — Real-Time Enterprise Tracking**
+*   **The Problem**: Critical data race conditions and session inconsistencies in employee attendance tracking.
+*   **The Solution**: Designed a robust state-validation backend using Node.js and MongoDB to handle concurrent geolocation sync.
+*   **Impact**: Reduced tracking inaccuracies by 95% and enabled seamless multi-tenant organization scaling.
 
-#### **Autonomous Automation Pipelines**
-*End-to-end data processing and workflow orchestration.*
-- **System**: Developed high-concurrency scraping engines for Telegram and web platforms.
-- **Execution**: Engineered data normalization layers to transform unstructured streams into actionable insights for downstream services.
-- **Result**: Automated 40+ hours of weekly manual data entry and processing.
+#### **2. Autonomous Telegram Intelligence Engine**
+*   **The Problem**: Processing massive unstructured data streams from encrypted messaging platforms for actionable insights.
+*   **The Solution**: Developed a high-concurrency Python engine with asynchronous processing and data normalization layers.
+*   **Impact**: Automated 40+ hours of manual data entry weekly, delivering clean datasets for downstream AI analysis.
 
-#### **Production Infrastructure & DevOps**
-*Hardened deployment environments for high-availability apps.*
-- **Stack**: Nginx, Docker, Cloudflare.
-- **Outcome**: Implemented automated CI/CD pipelines and security hardening (WAF, rate-limiting) to ensure zero-downtime deployments.
+#### **3. Zero-Downtime Infrastructure Hardening**
+*   **The Problem**: Manual deployment friction and security vulnerabilities in customer-facing applications.
+*   **The Solution**: Implemented automated CI/CD pipelines with GitHub Actions, Nginx reverse proxies, and Cloudflare WAF.
+*   **Impact**: Achieved 99.9% uptime and significantly reduced the attack surface through automated security patching.
 
 ---
 
-### 📊 Engineering Stats
+### 📊 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSRNServices&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSRNServices&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SSRNServices&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSRNServices&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160" />
 </p>
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Contribution History
 
 <p align="center">
   <picture>
@@ -75,6 +73,12 @@ I bridge the gap between complex requirements and scalable software. My focus is
 
 ---
 
+### 🌐 Connect
+
+- **Email**: [SSRNServices@gmail.com](mailto:SSRNServices@gmail.com)
+- **GitHub**: [SSRNServices](https://github.com/SSRNServices)
+- **Portfolio**: [Coming Soon]
+
 <p align="center">
-  <em>"I don't build demos. I build systems that move the needle."</em>
+  <em>"Engineering systems that solve real-world complexity with minimal friction."</em>
 </p>
