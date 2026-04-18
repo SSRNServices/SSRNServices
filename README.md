@@ -6,7 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architect;AI+%26+Automation+Expert" alt="Typing SVG" />
 </p>
   <h1>Hi<img width="30" src="./waving.gif">, I'm Nadeem Sarwar</h1>
-  <h3>A passionate backend developer & cloud engineer from India.</h3>
+  <h3>I build **production-grade backend systems, automation pipelines, and AI-powered tools** that solve real-world problems.
+
+Most developers build features.
+I focus on **systems that scale, stay reliable, and handle real users**.</h3>
 </div>
  
  <img align="right" width="380" height="auto" src="./geek.gif"/>
