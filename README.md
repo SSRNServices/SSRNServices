@@ -23,60 +23,98 @@ I focus on systems that scale, stay reliable, and handle real users.</h3>
 
 ---
 
-### ⚡ Overview
+## ⚙️ Core Expertise
 
-Senior Software Engineer focused on architecting high-performance backend systems, autonomous AI pipelines, and production-grade automation. I bridge the gap between complex business logic and resilient, scalable software.
-
----
-
-### 🧠 About Me
-
-*   **What I Build**: Distributed backend architectures, real-time data synchronization layers, and high-concurrency scraping engines.
-*   **Current Focus**: Engineering autonomous systems that leverage LLMs and structured data for industrial-scale automation.
-*   **Philosophy**: I prioritize system reliability and state integrity over simple feature delivery. My code is built to handle edge cases in production, not just tutorials.
+* Designing scalable backend architectures
+* Building high-performance APIs & services
+* Automation systems that eliminate manual workflows
+* AI integration in production environments
+* Debugging complex state & sync issues
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 Engineering Approach
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend** | Node.js (TypeScript), Python, Go, REST/GraphQL APIs |
-| **Database** | PostgreSQL, MongoDB, Redis, MySQL |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Infrastructure** | Docker, Nginx, GitHub Actions, Linux, Cloudflare |
+* Write code that is maintainable under pressure
+* Optimize for performance, not just functionality
+* Solve edge cases early (not after bugs appear)
+* Build systems that don’t break with scale
 
 ---
 
-### 🚀 Featured Systems
+## 📌 Selected Work
 
-#### **1. ShiftLog — Real-Time Enterprise Tracking**
-*   **The Problem**: Critical data race conditions and session inconsistencies in employee attendance tracking.
-*   **The Solution**: Designed a robust state-validation backend using Node.js and MongoDB to handle concurrent geolocation sync.
-*   **Impact**: Reduced tracking inaccuracies by 95% and enabled seamless multi-tenant organization scaling.
+### 🔹 ShiftLog — Employee Tracking System
 
-#### **2. Autonomous Telegram Intelligence Engine**
-*   **The Problem**: Processing massive unstructured data streams from encrypted messaging platforms for actionable insights.
-*   **The Solution**: Developed a high-concurrency Python engine with asynchronous processing and data normalization layers.
-*   **Impact**: Automated 40+ hours of manual data entry weekly, delivering clean datasets for downstream AI analysis.
+Real-time attendance & location tracking system
 
-#### **3. Zero-Downtime Infrastructure Hardening**
-*   **The Problem**: Manual deployment friction and security vulnerabilities in customer-facing applications.
-*   **The Solution**: Implemented automated CI/CD pipelines with GitHub Actions, Nginx reverse proxies, and Cloudflare WAF.
-*   **Impact**: Achieved 99.9% uptime and significantly reduced the attack surface through automated security patching.
+* Designed check-in/check-out logic with state validation
+* Solved duplicate session & sync inconsistency issues
+* Built backend capable of handling multiple concurrent users
+
+**Stack:** Node.js, MongoDB, Flutter
 
 ---
 
-### 📊 Engineering Activity
+### 🔹 Automation Systems
+
+Custom tools for scraping, processing, and workflow automation
+
+* Built Telegram scraping pipelines
+* Structured data for downstream automation
+* Reduced manual operations through systemized workflows
+
+**Stack:** Python
+
+---
+
+### 🔹 Deployment & Infrastructure Setup
+
+Production-ready deployment environments
+
+* Dockerized applications for consistency
+* Configured Nginx for routing & performance
+* Optimized deployments behind Cloudflare
+
+**Stack:** Docker, Nginx, Linux
+
+---
+
+## 🛠️ Tech Stack (Used in Production)
+
+**Backend:** Node.js, Express, Python
+**Databases:** MongoDB, PostgreSQL, MySQL, Redis
+**Infrastructure:** Docker, Nginx, Linux, GitHub Actions
+**Frontend (supporting role):** React, Next.js
+
+---
+
+## 🎯 Current Focus
+
+* Scaling backend systems for real-world usage
+* Building automation-first products
+* Applying AI in practical, usable systems
+
+---
+
+## 📊 Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSRNServices&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSRNServices&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SSRNServices&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSRNServices&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSRNServices&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SSRNServices&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🐍 Contribution History
+### 🐍 Contribution Activity
 
 <p align="center">
   <picture>
@@ -88,12 +126,16 @@ Senior Software Engineer focused on architecting high-performance backend system
 
 ---
 
-### 🌐 Connect
+## 🌐 Connect
 
-- **Email**: [SSRNServices@gmail.com](mailto:SSRNServices@gmail.com)
-- **GitHub**: [SSRNServices](https://github.com/SSRNServices)
-- **Portfolio**: [Coming Soon]
+* LinkedIn → https://linkedin.com/in/SSRNServices
+* YouTube → https://youtube.com/@SSRNServices
+* Email → [SSRNServices@gmail.com](mailto:SSRNServices@gmail.com)
 
-<p align="center">
-  <em>"Engineering systems that solve real-world complexity with minimal friction."</em>
-</p>
+---
+
+## ⚡ Reality
+
+I don’t build demo projects.
+I build systems that are meant to be used.
+
