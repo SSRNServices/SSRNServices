@@ -3,6 +3,13 @@
   <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Nadeem Sarwar</h1>
   <h3>A passionate backend developer & cloud engineer from India.</h3>
 </div>
+ 
+ <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
+
+<div align="left">
+  <samp>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <p align="center">
