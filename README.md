@@ -105,7 +105,7 @@ Production-ready deployment environments
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSRNServices&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSRNServices"/>
 </p>
 
 <p align="center">
