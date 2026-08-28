@@ -128,7 +128,7 @@ Production-ready deployment environments
 
 ## 🌐 Connect
 
-* LinkedIn → https://linkedin.com/in/SSRNServices
+* LinkedIn → https://linkedin.com/in/ssrn-services
 * YouTube → https://youtube.com/@SSRNServices
 * Email → [SSRNServices@gmail.com](mailto:SSRNServices@gmail.com)
 
