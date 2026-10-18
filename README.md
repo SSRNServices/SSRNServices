@@ -6,8 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/ssrn-services"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://youtube.com/@SSRNServices"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://linkedin.com/in/sarwar-nadeem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:contact@ssrnservices.in"><img src="https://img.shields.io/badge/Email-Contact-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-1F6FEB?style=flat-square" alt="Backend and automation focus" />
 
